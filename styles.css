@@ -178,74 +178,76 @@ body {
 
 /* Declaring Variables Section Styling */
 #declaring-variables {
- margin-top: 2em;
- padding: 1.5em;
- border: 2px solid #ddd;
- border-radius: 8px;
- background-color: #fdfdfd;
- box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
- font-family: Arial, sans-serif;
+    margin-top: 2em;
+    padding: 1.5em;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    background-color: #fdfdfd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
 }
 
 #declaring-variables header {
- font-size: 1.8em;
- color: #333;
- margin-bottom: 1em;
- text-align: center;
- font-weight: bold;
+    font-size: 1.8em;
+    color: #333;
+    margin-bottom: 1em;
+    text-align: center;
+    font-weight: bold;
 }
 
 #declaring-variables ul {
- list-style-type: disc;
- padding-left: 1.5em;
- margin-bottom: 1.5em;
+    list-style-type: disc;
+    padding-left: 1.5em;
+    margin-bottom: 1.5em;
 }
 
 #declaring-variables ul li {
- margin-bottom: 1em;
- font-size: 1.1em;
+    margin-bottom: 1em;
+    font-size: 1.1em;
 }
 
 #declaring-variables code {
- font-family: 'Courier New', Courier, monospace;
- color: #d14;
- font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    color: #d14;
+    font-size: 1em;
 }
 
 #declaring-variables pre {
- background-color: #2d2d2d;
- color: #f8f8f2;
- padding: 1em;
- border-radius: 5px;
- overflow-x: auto;
- font-size: 1em;
- line-height: 1.6;
- margin: 1em 0;
+    background-color: #2d2d2d;
+    color: #f8f8f2;
+    padding: 1em;
+    border-radius: 5px;
+    overflow-x: auto;
+    font-size: 1em;
+    line-height: 1.6;
+    margin: 1em 0;
 }
 
 #declaring-variables h2 {
- font-size: 1.4em;
- color: #555;
- margin-top: 1.5em;
- margin-bottom: 0.5em;
- border-bottom: 1px solid #ddd;
- padding-bottom: 0.5em;
+    font-size: 1.4em;
+    color: #555;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.5em;
 }
 
 #declaring-variables p {
- font-size: 1.1em;
- color: #444;
- line-height: 1.6;
+    font-size: 1.1em;
+    color: #444;
+    line-height: 1.6;
 }
 
 #declaring-variables strong {
- color: #222;
+    color: #222;
 }
 
 #declaring-variables blockquote {
- margin: 1em 0;
- padding-left: 1em;
- border-left: 4px solid #ddd;
- color: #555;
- font-style: italic;
+    margin: 1em 0;
+    padding-left: 1em;
+    border-left: 4px solid #ddd;
+    color: #555;
+    font-style: italic;
 }
+
+
