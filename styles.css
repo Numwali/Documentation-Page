@@ -127,6 +127,40 @@ body {
  padding: 0;
 }
 
+/* Reference Section Styling */
+#reference {
+ margin-top: 2em;
+ padding: 1.5em;
+ border-top: 2px solid #ccc;
+ background-color: #f7f7f7;
+ text-align: center;
+}
+
+#reference header {
+ font-size: 1.6em;
+ color: #444;
+ margin-bottom: 0.5em;
+ text-decoration: underline;
+}
+
+#reference p {
+ font-size: 1.2em;
+ color: #333;
+ line-height: 1.6;
+}
+
+#reference a {
+ color: #007acc;
+ text-decoration: none;
+ font-weight: bold;
+}
+
+#reference a:hover {
+ text-decoration: underline;
+ color: #005f99;
+}
+
+
 /* Responsive Design */
 @media (max-width: 768px) {
  .main-section {
